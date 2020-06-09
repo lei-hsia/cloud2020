@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3048193" />
@@ -49,25 +50,29 @@
       <screen x="36" y="23" width="1404" height="877" />
     </state>
     <state x="607" y="370" key="Github.ShareDialog/36.23.1404.877@36.23.1404.877" timestamp="1591692953009" />
-    <state width="1362" height="231" key="GridCell.Tab.0.bottom" timestamp="1591692978906">
+    <state width="1362" height="231" key="GridCell.Tab.0.bottom" timestamp="1591693551448">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
-    <state width="1362" height="231" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1591692978906" />
-    <state width="1362" height="231" key="GridCell.Tab.0.center" timestamp="1591692978904">
+    <state width="1362" height="231" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1591693551448" />
+    <state width="1362" height="231" key="GridCell.Tab.0.center" timestamp="1591693551447">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
-    <state width="1362" height="231" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1591692978904" />
-    <state width="1362" height="231" key="GridCell.Tab.0.left" timestamp="1591692978904">
+    <state width="1362" height="231" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1591693551447" />
+    <state width="1362" height="231" key="GridCell.Tab.0.left" timestamp="1591693551446">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
-    <state width="1362" height="231" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1591692978904" />
-    <state width="1362" height="231" key="GridCell.Tab.0.right" timestamp="1591692978905">
+    <state width="1362" height="231" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1591693551446" />
+    <state width="1362" height="231" key="GridCell.Tab.0.right" timestamp="1591693551447">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
-    <state width="1362" height="231" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1591692978905" />
+    <state width="1362" height="231" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1591693551447" />
     <state x="167" y="100" width="1062" height="722" key="SettingsEditor" timestamp="1591691226634">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
     <state x="167" y="100" width="1062" height="722" key="SettingsEditor/36.23.1404.877@36.23.1404.877" timestamp="1591691226634" />
+    <state x="132" y="127" key="new project wizard" timestamp="1591693533680">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="132" y="127" key="new project wizard/36.23.1404.877@36.23.1404.877" timestamp="1591693533680" />
   </component>
 </project>
