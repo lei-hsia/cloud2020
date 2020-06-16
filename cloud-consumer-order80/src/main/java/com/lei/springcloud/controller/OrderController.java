@@ -21,7 +21,7 @@ public class OrderController {
     // private static final String PAYMENT_URL = "http://localhost:8001";
 
     // 不再通过微服务地址访问，而是通过集群状态的微服务名称访问
-    private static final String PAYMENT_SVC = "CLOUD-PAYMENT-SERVICE";
+    private static final String PAYMENT_SVC  = "CLOUD-PAYMENT-SERVICE";
 
     @GetMapping(value = "/consumer/payment/create")
     public CommonResult<Payment> create(Payment payment) {
