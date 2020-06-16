@@ -18,4 +18,4 @@ EurekaServer: Eureka; EurekaClient: cloud-provider, 而consumer作为
 答: HA. 注册中心一定要集群: Eureka注册中心集群, 实现 LB + FT; e.g. 
 Eureka7001, 7002: 互相守望，相互调用
 
-服务注册中心，服务提供者，都应该是集群; 而且服务提供者更应该是集群; 
+服务注册中心，服务提供者，都应该是集群; 实际上服务提供者更应该是集群; 
